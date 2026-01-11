@@ -1,4 +1,4 @@
-const menus=[
+const Menus=[
   {
     title:"Breakfast",
     name:"Egg",
@@ -20,3 +20,5 @@ const menus=[
   }
   
 ]
+
+export default Menus; 
